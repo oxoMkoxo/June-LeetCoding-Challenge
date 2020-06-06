@@ -4,3 +4,5 @@
 2. [Delete Node in a Linked List (#237)](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 3. [Two City Scheduling (#1029)](https://leetcode.com/problems/two-city-scheduling/)
 4. [Reverse String (#344)](https://leetcode.com/problems/reverse-string/)
+5. [Random Pick with Weight (#528)](https://leetcode.com/problems/random-pick-with-weight/)
+6. [Queue Reconstruction by Height (#406)](https://leetcode.com/problems/queue-reconstruction-by-height/)
