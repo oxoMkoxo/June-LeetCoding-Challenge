@@ -10,3 +10,4 @@
 
 ## B. Week 2
 1. [Power of Two (#231)](https://leetcode.com/problems/power-of-two/)
+2. [Is Subsequence (#392)](https://leetcode.com/problems/is-subsequence/)
