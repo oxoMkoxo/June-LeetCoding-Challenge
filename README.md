@@ -12,3 +12,4 @@
 1. [Power of Two (#231)](https://leetcode.com/problems/power-of-two/)
 2. [Is Subsequence (#392)](https://leetcode.com/problems/is-subsequence/)
 3. [Search Insert Position (#35)](https://leetcode.com/problems/search-insert-position/)
+4. [Sort Colors (#75)](https://leetcode.com/problems/sort-colors/)
